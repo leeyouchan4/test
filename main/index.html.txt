@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rick ownes</title>
+    <link rel="stylesheet" href="master.css">
+</head>
+<body>
+    <section>
+        <div class="wrap">
+        <div class="wrap1"></div>
+        <div class="wrap2"></div>
+        <div class="wrap3"></div>
+        <div class="wrap4"></div>
+           </div>
+    </section>
+    
+</body>
+</html>

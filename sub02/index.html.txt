@@ -1,0 +1,25 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bungee+Spice&family=Nanum+Gothic&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Roboto:wght@100&display=swap');
+    </style>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rick owens 2</title>
+    <link rel="stylesheet" href="master.css">
+</head>
+<body>
+    <div class="wrap">
+        <div class="wrap2"></div>
+        <div class="wrap1"></div>
+        <div class="wrap3"></div>
+        <div class="wrap4"></div>
+        <div class="wrap5"></div>
+        <div class="wrap6"></div>
+        <div class="wrap7"></div>
+        </div>
+    
+</body>
+</html>

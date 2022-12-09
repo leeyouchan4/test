@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.wrap{
+    background-image: url(img/04_01.png);
+    position: relative;
+    width: 1920px;
+    height: 3246px; 
+    background-repeat: no-repeat;
+}
+
+.wrap1{
+    background-image: url(img/04_03.png);
+    width: 326.57px;
+    height: 134.91px;
+    top: 102px;
+    margin-left: 22.4px;
+}
+
+.wrap2{
+    background-image: url(img/04_02.png);
+    width: 930px;
+    height: 228px;
+    top: 167px;
+    margin-left: 495px;
+}
+
+.wrap3{
+    background-image: url(img/04_04.png);
+    width: 1200px;
+    height: 2382px;
+    margin-top: 250px;
+    margin-left: 340px;
+   
+}
+
